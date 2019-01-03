@@ -1,0 +1,13 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+USEFORM("CloseShift.cpp", FCloseShift);
+USEFORM("Shift.cpp", FShift);
+USEFORM("ShiftDocuments.cpp", FShiftDocuments);
+USEFORM("ShiftCheck.cpp", FShiftCheck);
+//---------------------------------------------------------------------------
+#define Library
+
+// To add a file to the library use the Project menu 'Add to Project'.
+
